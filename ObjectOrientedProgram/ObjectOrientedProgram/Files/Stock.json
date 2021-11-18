@@ -1,0 +1,17 @@
+[
+  {
+    "StockName": "Audi",
+    "NumberOfShares": 36,
+    "PricePerShare": 1900
+  },
+  {
+    "StockName": "Benz",
+    "NumberOfShares": 90,
+    "PricePerShare": 2250
+  },
+  {
+    "StockName": "Tesla",
+    "NumberOfShares": 99,
+    "PricePerShare": 9000
+  }
+]
