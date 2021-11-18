@@ -28,10 +28,5 @@ namespace ObjectOrientedProgram
                 Console.WriteLine(e.Message);
             }
         }
-
-        internal void ReadData(string v)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
