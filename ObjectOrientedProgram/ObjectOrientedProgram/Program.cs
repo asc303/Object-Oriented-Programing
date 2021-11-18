@@ -21,7 +21,7 @@ namespace ObjectOrientedProgram
                         break;
                     case 2:
                         InventoryManagementMain inven = new InventoryManagementMain();
-                        inven.ReadData(@"C:\Users\gunas\OneDrive\Documents\Git Problems\ObjectOrientedProgram\ObjectOrientedProgram\ObjectOrientedProgram\Files\InventoryList.json");
+                        inven.ReadData(@"D:\git project\ObjectOrientedProgram\ObjectOrientedProgram\ObjectOrientedProgram\Files\InventoryList.json");
                         inven.DisplayData("Rice");
                         inven.DisplayData("Wheat");
                         inven.DisplayData("Pulses");
